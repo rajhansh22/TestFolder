@@ -6,11 +6,8 @@ class calculator.java
 		int choice=sc.nextInt();
 		int a=15,b=3;
 		switch(choice){
-			case 1:int sum=a+b;
-			       System.out.println(sum);
-			       break;
-			case 2:int sub=a-b;
-			       System.out.println(sub);
+			case 3:int mult=a*b;
+			       System.out.println(mult);
 			       break;
 		}
 		//System.out.println("1.Add");
