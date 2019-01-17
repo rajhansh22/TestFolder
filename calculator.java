@@ -9,6 +9,9 @@ class calculator.java
 			case 1:int sum=a+b;
 			       System.out.println(sum);
 			       break;
+			case 2:int sub=a-b;
+			       System.out.println(sub);
+			       break;
 		}
 		//System.out.println("1.Add");
 	}
